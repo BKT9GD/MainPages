@@ -1,0 +1,9 @@
+.centerElements-h{
+    display: flex;
+    justify-content: center;
+}
+
+.centerElements-v{
+    display: flex;
+    align-items: center;
+}

@@ -3,8 +3,10 @@ body, html, head {
 }
 h1, p, b {
     color: white;
+    font-family: 'Segoe UI';
 }
 
 button, a {
     color: black;
+    font-family: 'Segoe UI';
 }

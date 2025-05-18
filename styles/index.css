@@ -1,0 +1,13 @@
+* {
+    font-family: 'Segoe UI';
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #202020;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, b, s{
+    color: #ffff;
+}
